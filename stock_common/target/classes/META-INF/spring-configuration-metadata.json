@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "stock",
+      "type": "com.it.stock.pojo.vo.StockInfoConfig",
+      "sourceType": "com.it.stock.pojo.vo.StockInfoConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "stock.block-url",
+      "type": "java.lang.String",
+      "sourceType": "com.it.stock.pojo.vo.StockInfoConfig"
+    },
+    {
+      "name": "stock.inner",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.it.stock.pojo.vo.StockInfoConfig"
+    },
+    {
+      "name": "stock.market-url",
+      "type": "java.lang.String",
+      "sourceType": "com.it.stock.pojo.vo.StockInfoConfig"
+    },
+    {
+      "name": "stock.outer",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.it.stock.pojo.vo.StockInfoConfig"
+    },
+    {
+      "name": "stock.up-down-range",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.it.stock.pojo.vo.StockInfoConfig"
+    }
+  ],
+  "hints": []
+}
